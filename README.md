@@ -18,7 +18,7 @@ The package is used to calculate IntraTumor Heterogeneity (ITH) based on "SNP6" 
 
 ## Installation
 
-You can install the released version of **DITHER** with:
+You can install the released version of **ieITH** with:
 
 ```R
 if (!requireNamespace("devtools", quietly = TRUE))
